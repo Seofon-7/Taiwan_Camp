@@ -21,4 +21,4 @@
 製作進度(建立架構ing)：  
 1.**app.js** 中使用**Mongoose**來連接MongoDB資料庫  
 2.views資料夾中建立**home.ejs**來做為主頁面  
-3.models資料夾中建立**campground.js**，其中**CampgroundSchema**設定**詳細資訊**的
+3.models資料夾中建立**campground.js**，其中**CampgroundSchema**為露營地的**詳細資訊**資料type
